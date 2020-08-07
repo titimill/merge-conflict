@@ -9,7 +9,7 @@ Initial Security()
 {
  //Sample Code
 }
-Feature01 security()
+Feature1 security()
 {
    //Sample code
 }

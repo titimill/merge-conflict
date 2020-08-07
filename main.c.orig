@@ -9,9 +9,17 @@ Initial Security()
 {
  //Sample Code
 }
-Feature01 security()
+<<<<<<< HEAD
+Feature1 security()
 {
    //Sample code
 }
+=======
+Feature2 Security()
+{
+ //Sample Code
+}
+
+>>>>>>> feature2
 
 }
